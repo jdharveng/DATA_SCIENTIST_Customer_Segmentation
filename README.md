@@ -31,8 +31,8 @@ This project is part of the Openclassrooms DataScientist Curriculum together wit
 ## Customers segmentation
 > - We applied then a **K-means++** to our customer database characterized with the help of the feature engineering discussed before.
 > - We used then the our different segments obtained as label for some **supervised ensemble methods**:
- - 1. _Random Forest_
- - 2. _Gradient Boosting_
+ > - 1. _Random Forest_
+ > - 2. _Gradient Boosting_
 > - We used _GradientSearchCV()_ for the tuning of the hyperparameters
 
 ## Evaluation metrics
